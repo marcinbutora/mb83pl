@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mb83pl" alt="mb83pl" /></a> </p>
 
-- 🔭 I’m currently working on [GeoIP](https://github.com/mb83pl/geoip)
+- 🔭 I’m currently working on [Movie Rental Backend](https://github.com/mb83pl/movie-rental-backend)
 
 - 🌱 I’m currently learning **Java, Angular, OOP programing and smart testing.**
 
